@@ -10,3 +10,4 @@ Working through The Odin Project (OP) - Fundamentals Course (which is where I di
 Completed Foundations: Introduction
 
 ### R1D2
+Repeating first section of FreeCodeCamp.org Responsive Web Design course
