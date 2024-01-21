@@ -11,3 +11,5 @@ Completed Foundations: Introduction
 
 ### R1D2
 Repeating first section of FreeCodeCamp.org Responsive Web Design course
+
+Completed: CatPhotoApp // WSL2 install & Linux/Ubuntu launch
