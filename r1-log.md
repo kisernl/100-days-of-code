@@ -15,4 +15,4 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 Completed: CatPhotoApp // WSL2 install & Linux/Ubuntu launch (for Odin Project)
 
 ### R1D3
-Completed: Moving Files & Directories (from Unix Shell course) for Odin Project "Command Line Basics"
+Completed: "Navigating Files & Directories" as well as "Working with Files & Directories" (from Unix Shell course) for Odin Project "Command Line Basics"
