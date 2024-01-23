@@ -13,3 +13,6 @@ Completed Foundations: Introduction
 Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 Completed: CatPhotoApp // WSL2 install & Linux/Ubuntu launch (for Odin Project)
+
+### R1D3
+Completed: Moving Files & Directoies (from Unix Shell course) for Odin Project "Command Line Basics"
