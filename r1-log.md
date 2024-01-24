@@ -16,3 +16,6 @@ Completed: CatPhotoApp // WSL2 install & Linux/Ubuntu launch (for Odin Project)
 
 ### R1D3
 Completed: "Navigating Files & Directories" as well as "Working with Files & Directories" (from Unix Shell course) for Odin Project "Command Line Basics"
+
+### R1D4
+Completed: "Pipes & Filters" (from Unix Shell course) for Odin Project "Command Line Basics"
