@@ -19,3 +19,6 @@ Completed: "Navigating Files & Directories" as well as "Working with Files & Dir
 
 ### R1D4
 Completed: "Pipes & Filters" (from Unix Shell course) for Odin Project "Command Line Basics"
+
+### R1D5
+Completed: Odin Project "Command Line Basics" + setting up git in Linux
