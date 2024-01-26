@@ -22,3 +22,6 @@ Completed: "Pipes & Filters" (from Unix Shell course) for Odin Project "Command 
 
 ### R1D5
 Completed: Odin Project "Command Line Basics" + setting up git in Linux
+
+### R1D6
+Completed: Odin Project "Git Basics"
