@@ -25,3 +25,6 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D6
 01.25.2024 - Completed: Odin Project "Git Basics"
+
+### R1D7
+01.26.2024 - Completed: First half of Odin Project "HTML Foundations"
