@@ -31,3 +31,6 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D8
 01.27.2024 - Completed: all lessons for Odin Project "HTML Foundations" - next is the project at the end if this unit
+
+### R1D9
+01.28.2024 - Completed: The Odin Project "HTML Foundations" - project: recipe webpage
