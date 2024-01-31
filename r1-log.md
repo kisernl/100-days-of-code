@@ -37,3 +37,6 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D10
 01.29.2024 - Completed: The Odin Project "Intro to CSS" - assignmnet 1: 01-css-methods
+
+### R1D11
+01.30.2024 - Completed: The Odin Project "Intro to CSS" - 2 exercsises
