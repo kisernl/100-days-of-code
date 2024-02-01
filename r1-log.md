@@ -40,3 +40,6 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D11
 01.30.2024 - Completed: The Odin Project "Intro to CSS" - 2 exercsises
+
+### R1D12
+01.31.2024 - Completed: The Odin Project "The Cascade" - exercsise. Also add CSS to recipe page
