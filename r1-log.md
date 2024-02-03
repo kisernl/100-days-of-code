@@ -45,4 +45,7 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 01.31.2024 - Completed: The Odin Project "The Cascade" - exercsise. Also add CSS to recipe page
 
 ### R1D13
-01=2.01.2024 - Completed: The Odin Project 3 out of 4 DevTools exercises - including how to change info in the DOM, making fake headlines for NYT!
+02.01.2024 - Completed: The Odin Project 3 out of 4 DevTools exercises - including how to change info in the DOM, making fake headlines for NYT!
+
+### R1D14
+02.02.2024 - Completed: The Odin Project - DevTools exercises - learning about "the box" in CSS
