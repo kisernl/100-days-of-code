@@ -49,3 +49,7 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D14
 02.02.2024 - Completed: The Odin Project - DevTools exercises - learning about "the box" in CSS
+
+### R1D15
+02.03.2024 - Completed: The Odin Project - the Box Model module
+
