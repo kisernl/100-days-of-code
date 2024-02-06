@@ -56,3 +56,5 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 ### R1D16
 02.04.2024 - Completed: The Odin Project - initial exercises for flexbox tutorial
 
+### R1D17
+02.05.2024 - Completed: The Odin Project - intro to flexbox + growing & shrinking
