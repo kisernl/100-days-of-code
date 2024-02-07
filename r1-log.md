@@ -58,3 +58,7 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D17
 02.05.2024 - Completed: The Odin Project - intro to flexbox + growing & shrinking
+
+### R1D18
+02.06.2024 - Completed: The Odin Project - Flexbox: Axes; begin Flexbox alignment assignments
+
