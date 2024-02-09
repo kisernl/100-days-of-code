@@ -62,3 +62,8 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 ### R1D18
 02.06.2024 - Completed: The Odin Project - Flexbox: Axes; begin Flexbox alignment assignments
 
+### R1D19
+02.07.2024 - Completed: The Odin Project - 2nd & 3rd Flexbox alignment assignments
+
+### R1D20
+02.08.2024 - Completed: The Odin Project - 4th Flexbox alignment assignment
