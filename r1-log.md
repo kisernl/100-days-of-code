@@ -80,4 +80,6 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 ### R1D23
 02.12.2024 - Completed: The Odin Project - Flexbox Zombies ch 6
 
+### R1D24
+02.13.2024 - Completed: The Odin Project - Flexbox Zombies ch 7
 
