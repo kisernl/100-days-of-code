@@ -88,3 +88,12 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D26
 02.16.2024 - Completed: The Odin Project - Flexbox Zombies chs 10-12 - finished
+
+### R1D27
+02.17.2024 - Completed: The Odin Project - Project: Landing Page - Header
+
+### R1D28
+02.18.2024 - Completed: The Odin Project - Project: Landing Page - Hero
+
+### R1D29
+02.19.2024 - Completed: The Odin Project - Project: Landing Page - Boxes
