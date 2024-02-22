@@ -99,4 +99,8 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 02.19.2024 - Completed: The Odin Project - Project: Landing Page - Boxes
 
 ### R1D30
-02.19.2024 - Completed: The Odin Project - Project: Landing Page - Quote & Logo Image
+02.20.2024 - Completed: The Odin Project - Project: Landing Page - Quote & Logo Image
+
+### R1D31
+02.21.2024 - Completed: The Odin Project - Project: Landing Page - bottom & footer - finished project
+
