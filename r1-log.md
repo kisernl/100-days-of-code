@@ -104,3 +104,5 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 ### R1D31
 02.21.2024 - Completed: The Odin Project - Project: Landing Page - bottom & footer - finished project
 
+### R1D32
+02.22.2024 - Completed: The Odin Project - first foray into JavaScript
