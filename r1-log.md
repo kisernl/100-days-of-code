@@ -106,3 +106,6 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D32
 02.22.2024 - Completed: The Odin Project - first foray into JavaScript
+
+### R1D33
+02.23.2024 - Completed: The Odin Project - continued exercises for JacvaScript numbers
