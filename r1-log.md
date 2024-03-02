@@ -118,3 +118,10 @@ Repeating first section of FreeCodeCamp.org Responsive Web Design course
 
 ### R1D36
 02.27.2024 - Completed: The Odin Project - exercises for JacvaScript strings
+
+### R1D37
+02.28.2024 - Completed: The Odin Project - exercises for JacvaScript more on Data-type strings
+
+### R1D38
+03.1.2024 - Completed: The Odin Project - exercises for JacvaScript conditionals
+
